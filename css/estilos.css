@@ -170,6 +170,12 @@ header {
     text-transform: uppercase;
 }
 
+/* Imagen en la alerta de noticias */
+.alerta-imagen {
+    max-width: 280px;
+    width: 100%;
+}
+
 /* Estilos de contacto */
 .form-contacto { border-color: var(--p4-negro) !important; }
 .seccion-pasos { background-color: var(--p4-amarillo); border: 3px solid var(--p4-negro); }
